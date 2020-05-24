@@ -148,18 +148,3 @@ inpu_extra_wim5=data1[12];input_extra_wim6=data1[13]
 inpu_extra_wim7=data1[14];input_dism=data1[15]
 
 
-print(input_desc)
-print(input_sku)
-print(input_rev)
-print(input_bios)
-print(input_minipart)
-print(input_ospart)
-print(input_driverpart)
-print(input_extra_wim1)
-print(input_extra_wim2)
-print(input_extra_wim3)
-print(input_extra_wim4)
-print(input_extra_wim5)
-print(input_extra_wim6)
-print(input_extra_wim7)
-print(input_dism)
